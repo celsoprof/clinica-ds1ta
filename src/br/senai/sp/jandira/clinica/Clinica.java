@@ -31,6 +31,7 @@ public class Clinica {
 		p2.dataNascimento = LocalDate.of(1974, 5, 30);
 		p2.estaInternado = false;
 		
+		
 		// Mostrar dados do paciente 1
 		p1.mostrarFichaPaciente();
 		p2.mostrarFichaPaciente();		
